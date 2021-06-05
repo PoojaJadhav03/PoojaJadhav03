@@ -1,4 +1,4 @@
-### Hi there 👋
+### POOJA JADHAV
 
 <h1 align="center">👋Hello developers, I'm Pooja Jadhav</h1>
 <h3 align="center">An Undergraduate Computer Engineering Student| Machine Learning and AI Enthusiastic| Full Stack Developer|</h3>
