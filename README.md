@@ -1,6 +1,6 @@
 ### POOJA JADHAV
 
-<h1 align="center">👋("HELLO WORLD!"); , I'm Pooja Jadhav</h1>
+<h1 align="center">👋("HELLO WORLD!");  I'm Pooja Jadhav</h1>
 <h3 align="center">An Undergraduate Computer Engineering Student| Machine Learning and AI Enthusiastic| Full Stack Developer|</h3>
 
 - 🌱 I’m currently learning **Data Science and Analytics.**
