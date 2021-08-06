@@ -25,6 +25,9 @@
  
  ![Powerful1](https://user-images.githubusercontent.com/84228181/120885397-806b8700-c59d-11eb-9681-75b6ba822a27.gif)
  
+ 
+ <h1 align="center" >Things never happen on accident. They happen because you have a vision , you have a commitment, you have a dream</h1>
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojajadhav03&show_icons=true&locale=en&layout=compact" alt="poojajadhav03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojajadhav03&show_icons=true&locale=en" alt="poojajadhav03" /></p>
