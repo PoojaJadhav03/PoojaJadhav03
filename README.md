@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there :-)  I'm Pooja Jadhav</h1>
 <h3 align="center">A Final Year Computer Engineering Student|Full Stack Developer|Machine Learning and AI Enthusiastic</h3>
 
-- 🌱 I’m doing **Technical Trainee Internship AT RBL Bank.**
+- 🌱 Former **Technical Trainee Intern AT RBL Bank.**
 
 - 👯 I’m Good at **Software Development & Giving Solutions To Real-Time Problems using Technology**
 
