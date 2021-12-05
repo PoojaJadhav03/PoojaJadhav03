@@ -2,13 +2,7 @@
 
 <h1 align="center">👋 Hey there :-)  I'm Pooja Jadhav</h1>
 <h3 align="center">A Final Year Computer Engineering Student|Full Stack Developer|Machine Learning and AI Enthusiastic</h3>
-
-- 🌱 Former **Technical Trainee Intern AT RBL Bank.**
-
-- 👯 I’m Good at **Software Development & Giving Solutions To Real-Time Problems using Technology**
-
--  🌱Experience **Full Stack Developer Internship at Kode-IT Soultions**  **||** 
-                 **Machine Learning Trainee at National Engg Olympiad**  
+ 
 - 📫 How to reach me **jadhavpooja1103@gmail.com**
 
 <h3 align="left">Connect with me:
