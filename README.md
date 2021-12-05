@@ -1,7 +1,7 @@
 ### POOJA  JADHAV
 
 <h1 align="center">👋 Hey there :-)  I'm Pooja Jadhav</h1>
-<h3 align="center">A Final Year Computer Engineering Student|Full Stack Developer|Machine Learning and AI Enthusiastic</h3>
+<h3 align="center"> Computer Engineering Student</h3>
  
 - 📫 How to reach me **jadhavpooja1103@gmail.com**
 
